@@ -54,7 +54,7 @@ $data = array(
     "UF_ORDER_PRICE"    => $orderListPrice,
 );
 $result = $entity_data_class::add($data);
-//закончил 21:56
+//закончил 21:59
 
 
 
